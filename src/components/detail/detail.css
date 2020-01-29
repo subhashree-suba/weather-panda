@@ -1,0 +1,44 @@
+.container p{
+    margin: 0;
+}
+
+.degree-toggle {
+    height: 10%
+}
+
+.degree {
+    position: absolute;
+    bottom: 0;
+    border-right: 1px solid;
+    padding-right: 5px;
+}
+
+.farenheit {
+    position: absolute;
+    bottom: 0;
+    margin-left: 25px;
+}
+
+.temp-now-row {
+    height: 25%
+}
+
+.right-now-row {
+    width: 100%;
+}
+
+.temp-row {
+    width: 100%;
+}
+
+.temp-now {
+    font-size: 70px;
+    font-weight: bold;
+    height: 70%;
+    margin-bottom: 5px;
+    margin-top: -30px;
+}
+
+.separation {
+    border-bottom: 1px solid;
+}
